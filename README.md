@@ -25,7 +25,7 @@ npm install pdf-parse
 
 ### 2. Execute o script
 ```sh
-node script.js
+node index.js
 ```
 
 O script irá procurar arquivos PDF no diretório `./pdf/`, extrair o texto de cada um e salvar um arquivo `.txt` correspondente no mesmo diretório.
