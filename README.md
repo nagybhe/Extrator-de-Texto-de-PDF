@@ -1,4 +1,4 @@
-. # Extração de Texto de PDFs
+# Extração de Texto de PDFs
 
 ## Descrição
 Este projeto, desenvolvido em React e Node.js, realiza a extração de texto a partir de arquivos PDF e retorna os dados em formato JSON. É possível selecionar o diretório onde o arquivo está localizado, processar o PDF e gerar automaticamente um arquivo .json com as informações extraídas.
