@@ -64,7 +64,7 @@ npm install express http cors multer fs path tesseract.js pdf-poppler socket.io
 ### 2. Instale as dependências no frontend/
 Antes de rodar o script, instale as dependências necessárias:
 ```sh
-npm npm install react styled-components react-toastify socket.io-client
+npm install react styled-components react-toastify socket.io-client
 ```
 
 ### 3. Execute no backend/
